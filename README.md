@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AirRedNight234
+- 👋 Hi, I’m @NiaBegay
 - 👀 I’m interested in programming and coding.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on ...
